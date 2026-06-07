@@ -20,3 +20,4 @@
 - 6.CLASE 6
 - GIT
 ![Team](/assets/images/team.jpg "team")
+- Terminal de Visual estudio code
